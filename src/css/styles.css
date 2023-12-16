@@ -3,11 +3,6 @@
   | include css partials with
   | default @import url()
   |============================
-  <load srv="partials/hero.html" />
-      <load srv="partials/offerings.html" />
-      <load srv="partials/favorites.html" />
-      <load srv="partials/customers.html" />
-      <load srv="partials/subscribe.html" />
 */
 @import url('./reset.css');
 @import url('./header.css');
